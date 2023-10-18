@@ -9,12 +9,12 @@ const Sidebar = () => {
     >
       <ul class="nav flex-column sticky-top pl-0 pt-5 p-3 mt-3 ">
         <li class="nav-item mb-2 mt-3">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <h5>Ahmad Raza</h5>
           </a>
         </li>
         <li class="nav-item mb-2 ">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <i class="fas fa-user font-weight-bold"></i>{" "}
             <span className="ml-3">Overview</span>
           </a>
@@ -22,7 +22,7 @@ const Sidebar = () => {
         <li class="nav-item mb-2">
           <a
             class="nav-link text-secondary"
-            href="#submenu1"
+            href=""
             data-toggle="collapse"
             data-target="#submenu1"
           >
@@ -54,36 +54,36 @@ const Sidebar = () => {
   </a>
   </li>*/}
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <i class="fas fa-file-export font-weight-bold"></i>
             <span className="ml-3">Export</span>
           </a>
         </li>
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <i class="fas fa-tablet-alt font-weight-bold"></i>
             <span className="ml-3">Snippets</span>
           </a>
         </li>
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <i class="fas fa-atom font-weight-bold"></i>{" "}
             <span className="ml-3">Flex</span>
           </a>
         </li>
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             <i class="far fa-folder font-weight-bold"></i>{" "}
             <span className="ml-3">Layouts</span>
           </a>
         </li>
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             Templates
           </a>
         </li>
         <li class="nav-item mb-2">
-          <a class="nav-link text-secondary" href="#">
+          <a class="nav-link text-secondary" href="">
             Themes
           </a>
         </li>
